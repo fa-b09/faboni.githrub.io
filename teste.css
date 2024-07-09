@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+    border: 20px;
+    padding: 10px;
+    font-size: 20px;
+    background-color: aquamarine;
+}
+h1{
+    text-align: center;
+    font-size: 50px;    
+}
+ul{
+    font-size: 30px;
+}
+input{
+    box-sizing: border-box;
+    width: 100px;
+    height: 30px;
+}
+button{
+    width: 100px;
+    height: 30px;
+
+}
